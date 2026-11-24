@@ -129,6 +129,5 @@ Os testes embutidos nos scripts das Etapas 03 a 05 foram escritos para os dados 
 | Filipe Nava | [fon2@cesar.school](mailto:fon2@cesar.school) |
 | Leandro Tavarez | [lsgt@cesar.school](mailto:lsgt@cesar.school) |
 | Hallana Santana | [hso3@cesar.school](mailto:hso3@cesar.school) |
-| Paulo Bueno | [pfdb@cesar.school](mailto:pfdb@cesar.school) |
 
 CESAR School – Modelagem e Projeto de Banco de Dados, 2026.2.
